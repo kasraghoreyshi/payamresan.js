@@ -18,9 +18,6 @@
 ### پیام رسان سروش
 #### نصب کتابخانه
 ```
-npm install tiny-typed-emitter
-Or: yarn add tiny-typed-emitter
-و
 npm install soroush.js --save
 yarn add soroush.js
 ```
@@ -121,9 +118,6 @@ keyboard: [
 ### پیام رسان بله
 #### نصب کتابخانه
 ```
-npm install tiny-typed-emitter
-Or: yarn add tiny-typed-emitter
-و
 npm install bale.js --save
 yarn add bale.js
 ```
