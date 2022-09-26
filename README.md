@@ -1,5 +1,12 @@
 # Payamresan.JS | پیام رسان جی اس
 
+![payamresanjs](https://github.com/kasraghoreyshi/payamresan.js/images/banner.jpg)
+
+![Intended Runtime Environment: Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM Version](https://img.shields.io/npm/v/payamresan.js?style=for-the-badge)
+![License](https://img.shields.io/npm/l/payamresan.js?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/kasraghoreyshi/payamresan.js?style=for-the-badge)
+
 > Note: English documentation is on the way.
 
 با استفاده از این کتابخانه، به راحتی ربات های مخصوص پیام رسان های داخلی سروش و بله (در دست ساخت) بسازید.
