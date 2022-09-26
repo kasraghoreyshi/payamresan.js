@@ -16,6 +16,9 @@
         "type": "git",
         "url": "git+https://github.com/kasraghoreyshi/payamresan.js.git"
     },
+    "dependencies": {
+        "tiny-typed-emitter": "^2.1.0"
+    },
     "scripts": {
         "lint": "eslint *.ts*",
         "dev": "tsc --watch",
