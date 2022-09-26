@@ -30,6 +30,7 @@
     },
     "dependencies": {
         "node-telegram-bot-api": "^0.59.0",
-        "telegraf": "^3.38.0"
+        "telegraf": "^3.38.0",
+        "tiny-typed-emitter": "^2.1.0"
     }
 }
