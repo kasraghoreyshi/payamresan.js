@@ -7,7 +7,15 @@
     "files": [
         "dist/**"
     ],
+    "author": {
+        "name": "Kasra Ghoreyshi",
+        "email": "kasra.ghoreyshi84@gmail.com"
+    },
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kasraghoreyshi/payamresan.js.git"
+    },
     "scripts": {
         "lint": "eslint *.ts*",
         "dev": "tsc --watch",
