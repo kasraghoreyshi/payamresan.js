@@ -1,3 +1,4 @@
+
 # Payamresan.JS | پیام رسان جی اس
 
 ![payamresanjs](https://github.com/kasraghoreyshi/payamresan.js/raw/main/images/banner.jpg)
@@ -107,7 +108,7 @@ keyboard: [
 برای توضیحات بیشتر درباره کیبورد ها، حتما مستندات رسمی سروش را مطالعه فرمایید: https://hi.splus.ir/developer
 
 ## مثال
-یک ربات سروش با استفاده از کتابخانه پیام رسان جی اس ساخته شده است که سورس کد آن را می توانید در اینجا مشاهده کنید.
+یک ربات سروش با استفاده از کتابخانه پیام رسان جی اس ساخته شده است که سورس کد آن را می توانید در [اینجا](https://github.com/kasraghoreyshi/payamresan.js/tree/main/examples/soroush) مشاهده کنید.
 
 ### پیام رسان بله
 فعلا به دلیل مشکلات حال حاضر پیام رسان بله، از ارائه یک کتابخانه مجزا برای آن معذور هستیم. اما به دلیل شباهت مستندات و ای پی آی بله به تلگرام، می توانید از این دو کلاس استفاده کنید: BaleTelegrafWrapper و BaleTelegramNodeWrapper
