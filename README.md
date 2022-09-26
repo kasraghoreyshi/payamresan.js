@@ -1,6 +1,6 @@
 # Payamresan.JS | پیام رسان جی اس
 
-![payamresanjs]([https://github.com/kasraghoreyshi/payamresan.js/images/banner.jpg](https://github.com/kasraghoreyshi/payamresan.js/raw/main/images/banner.jpg])
+![payamresanjs](https://github.com/kasraghoreyshi/payamresan.js/raw/main/images/banner.jpg)
 
 ![Intended Runtime Environment: Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM Version](https://img.shields.io/npm/v/payamresan.js?style=for-the-badge)
