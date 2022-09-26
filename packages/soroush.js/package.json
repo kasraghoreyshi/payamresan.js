@@ -1,0 +1,22 @@
+{
+    "name": "soroush.js",
+    "version": "0.0.1",
+    "main": "./dist/index.js",
+    "source": "./src/index.ts",
+    "types": "./dist/index.d.ts",
+    "files": [
+        "dist/**"
+    ],
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint *.ts*",
+        "dev": "tsc --watch",
+        "build": "tsup src/index.ts --format cjs --dts"
+    },
+    "devDependencies": {
+        "eslint": "^7.32.0",
+        "eslint-config-custom": "*",
+        "tsconfig": "*",
+        "typescript": "^4.5.2"
+    }
+}

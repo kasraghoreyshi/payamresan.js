@@ -1,0 +1,27 @@
+{
+    "name": "bale.js",
+    "version": "0.0.1",
+    "main": "./dist/index.js",
+    "source": "./src/index.ts",
+    "types": "./dist/index.d.ts",
+    "files": [
+        "dist/**"
+    ],
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint *.ts*",
+        "dev": "tsc --watch",
+        "build": "tsup src/index.ts --format cjs --dts"
+    },
+    "devDependencies": {
+        "@types/node-telegram-bot-api": "^0.57.1",
+        "eslint": "^7.32.0",
+        "eslint-config-custom": "*",
+        "tsconfig": "*",
+        "typescript": "^4.5.2"
+    },
+    "dependencies": {
+        "node-telegram-bot-api": "^0.59.0",
+        "telegraf": "^3.38.0"
+    }
+}

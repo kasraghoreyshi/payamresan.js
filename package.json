@@ -1,0 +1,42 @@
+{
+  "name": "payamresan.js",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "examples/soroush/sample-bot-js/*",
+    "examples/bale/sample-bot-js/*",
+    "examples/igap/sample-bot-js/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "publish-packages": "turbo run build && changeset version && changeset publish"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.20",
+    "@types/request": "^2.48.8",
+    "eslint-config-custom": "*",
+    "prettier": "latest",
+    "tsup": "^6.2.3",
+    "turbo": "latest"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "@changesets/cli": "^2.24.4",
+    "@types/eventsource": "^1.1.9",
+    "axios": "^0.27.2",
+    "eventemitter3": "^4.0.7",
+    "eventsource": "^2.0.2",
+    "express": "^4.18.1",
+    "form-data": "^4.0.0",
+    "image-size": "^1.0.2",
+    "request": "^2.88.2",
+    "tiny-typed-emitter": "^2.1.0"
+  },
+  "packageManager": "npm@8.19.2"
+}
