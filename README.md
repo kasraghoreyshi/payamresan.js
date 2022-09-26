@@ -4,11 +4,7 @@
 
 ![Intended Runtime Environment: Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM Version](https://img.shields.io/npm/v/soroush.js?style=for-the-badge)
-![License](https://img.shields.io/npm/l/soroush.js?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/kasraghoreyshi/soroush.js?style=for-the-badge)
 ![NPM Version](https://img.shields.io/npm/v/bale.js?style=for-the-badge)
-![License](https://img.shields.io/npm/l/bale.js?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/kasraghoreyshi/bale.js?style=for-the-badge)
 
 > Note: English documentation is on the way.
 
