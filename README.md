@@ -3,9 +3,9 @@
 
 ![payamresanjs](https://github.com/kasraghoreyshi/payamresan.js/raw/main/images/banner.jpg)
 
-![Intended Runtime Environment: Node.js](https://persian-badge.iran.liara.run/api/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM Version](https://persian-badge.iran.liara.run/api/npm/v/soroush.js?style=for-the-badge)
-![NPM Version](https://persian-badge.iran.liara.run/api/npm/v/bale.js?style=for-the-badge)
+![Intended Runtime Environment: Node.js](https://persian-badge.iran.liara.run/api/badge/Node JS-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM Version](https://persian-badge.iran.liara.run/api/npm/v/soroush.js?style=flat)
+![NPM Version](https://persian-badge.iran.liara.run/api/npm/v/bale.js?style=flat)
 
 > Note: English documentation is on the way.
 
