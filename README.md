@@ -3,7 +3,7 @@
 
 ![payamresanjs](https://github.com/kasraghoreyshi/payamresan.js/raw/main/images/banner.jpg)
 
-<p align="start">
+<p align="center">
   <img alt="Intended Runtime Environment: Node.js" src="https://persian-badge.iran.liara.run/api/badge/NodeJS-43853D?style=flat&logo=nodedotjs&logoColor=white&scale=1.396">
  <img alt="SoroushJS NPM Version" src="https://persian-badge.iran.liara.run/api/npm/v/soroush.js?style=flat&label=SoroushJS&scale=1.396">
  <img alt="BaleJS NPM Version" src="(https://persian-badge.iran.liara.run/api/npm/v/bale.js?style=flat&label=BaleJS&scale=1.396">
