@@ -6,8 +6,8 @@
 <p align="end">
   <img alt="Intended Runtime Environment: Node.js" src="https://persian-badge.iran.liara.run/api/badge/NodeJS-43853D?style=flat&logo=nodedotjs&logoColor=white&scale=1.396">
   <img alt="Star" src="https://persian-badge.iran.liara.run/api/github/stars/kasraghoreyshi/payamresan.js?scale=1.396">
- <img alt="SoroushJS NPM Version" src="https://persian-badge.iran.liara.run/api/npm/v/soroush.js?style=flat&label=SoroushJS&scale=1.396&logo=npm">
- <img alt="BaleJS NPM Version" src="https://persian-badge.iran.liara.run/api/npm/v/bale.js?style=flat&label=BaleJS&scale=1.396&logo=npm">
+ <img alt="SoroushJS NPM Version" src="https://persian-badge.iran.liara.run/api/npm/v/soroush.js?style=flat&label=SoroushJS&scale=1.396&logo=npm&logoColor=white">
+ <img alt="BaleJS NPM Version" src="https://persian-badge.iran.liara.run/api/npm/v/bale.js?style=flat&label=BaleJS&scale=1.396&logo=npm&logoColor=white">
 </p>
 
 > Note: English documentation is on the way.
